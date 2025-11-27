@@ -1,1 +1,6 @@
 print ("hola")
+# ...existing code...
+# (reemplazado) print("hola")
+# ...existing code...
+for i in range(1, 101):
+    print(i)
